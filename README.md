@@ -4,4 +4,4 @@ Using the Logistic Regression Model in Machine Learning I have Created a project
 DataSet is downloaded from Kraggle.
 Accuracy Obtained is:
 Training : 85 % [approx]
-Testing : 82 % [approx]
+& Testing : 82 % [approx]
